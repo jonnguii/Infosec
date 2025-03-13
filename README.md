@@ -1,4 +1,4 @@
-📚 Sobre este repositório
+# 📚 Sobre este repositório
 
 Este repositório é dedicado ao estudo de Segurança da Informação (✨ InfoSec ✨), uma área essencial para proteger dados, sistemas e usuários contra ameaças digitais.
 
@@ -11,7 +11,7 @@ Aqui, irei documentar meus aprendizados sobre os diversos aspectos da segurança
 
 
 
-🛠️ Assuntos que irei abordar:
+### 🛠️ Assuntos que irei abordar:
 
 💻 Computadores – Proteção de sistemas operacionais, firewalls e antivírus.
 
